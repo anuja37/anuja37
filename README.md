@@ -1,5 +1,5 @@
 ### Hi👋 I'm Anuja 
-A sophomore at JD college of engineering
+Third year student at JD college of engineering
 
 
  🌱 I’m currently learning JAVA (DSA)

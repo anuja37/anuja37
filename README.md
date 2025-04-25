@@ -3,7 +3,7 @@ Third year student at JD college of engineering
 
 
  🌱 I’m currently learning JAVA (DSA)
- Technologies I've worked with:
+⚡ Technologies I've worked with:
 React
 Node.js
 Express.js
